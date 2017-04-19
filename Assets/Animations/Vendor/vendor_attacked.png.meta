@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: f5489c252171cda428d591ee54c8a94b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attacked_0
+    21300002: attacked_1
+    21300004: attacked_2
+    21300006: attacked_3
+    21300008: attacked_4
+    21300010: attacked_5
+    21300012: attacked_6
+    21300014: attacked_7
+    21300016: attacked_8
+    21300018: attacked_9
+    21300020: attacked_10
+    21300022: attacked_11
+    21300024: attacked_12
+    21300026: attacked_13
+    21300028: attacked_14
+    21300030: attacked_15
+    21300032: attacked_16
+    21300034: attacked_17
+    21300036: attacked_18
+    21300038: attacked_19
+    21300040: vendor_attacked_0
+    21300042: vendor_attacked_1
+    21300044: vendor_attacked_2
+    21300046: vendor_attacked_3
+    21300048: vendor_attacked_4
+    21300050: vendor_attacked_5
+    21300052: vendor_attacked_6
+    21300054: vendor_attacked_7
+    21300056: vendor_attacked_8
+    21300058: vendor_attacked_9
+    21300060: vendor_attacked_10
+    21300062: vendor_attacked_11
+    21300064: vendor_attacked_12
+    21300066: vendor_attacked_13
+    21300068: vendor_attacked_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: vendor_attacked_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_9
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_attacked_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

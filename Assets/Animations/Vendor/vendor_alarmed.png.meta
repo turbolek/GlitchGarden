@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: f8a5faee16a44744689a7a90c704c872
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alarmed_0
+    21300002: alarmed_1
+    21300004: alarmed_2
+    21300006: alarmed_3
+    21300008: alarmed_4
+    21300010: alarmed_5
+    21300012: alarmed_6
+    21300014: alarmed_7
+    21300016: alarmed_8
+    21300018: alarmed_9
+    21300020: alarmed_10
+    21300022: alarmed_11
+    21300024: alarmed_12
+    21300026: vendor_alarmed_0
+    21300028: vendor_alarmed_1
+    21300030: vendor_alarmed_2
+    21300032: vendor_alarmed_3
+    21300034: vendor_alarmed_4
+    21300036: vendor_alarmed_5
+    21300038: vendor_alarmed_6
+    21300040: vendor_alarmed_7
+    21300042: vendor_alarmed_8
+    21300044: vendor_alarmed_9
+    21300046: vendor_alarmed_10
+    21300048: vendor_alarmed_11
+    21300050: vendor_alarmed_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: vendor_alarmed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_9
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vendor_alarmed_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 6a4033e10fc5e1445ad2b990459e441f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken_walking_0
+    21300002: chicken_walking_1
+    21300004: chicken_walking_2
+    21300006: chicken_walking_3
+    21300008: chicken_walking_4
+    21300010: chicken_walking_5
+    21300012: chicken_walking_6
+    21300014: chicken_walking_7
+    21300016: chicken_walking_8
+    21300018: chicken_walking_9
+    21300020: chicken_walking_10
+    21300022: chicken_walking_11
+    21300024: chicken_walking_12
+    21300026: chicken_walking_13
+    21300028: chicken_walking_14
+    21300030: chicken_walking_15
+    21300032: chicken_walking_16
+    21300034: chicken_walking_17
+    21300036: chicken_walking_18
+    21300038: chicken_walking_19
+    21300040: chicken_walking_20
+    21300042: chicken_walking_21
+    21300044: chicken_walking_22
+    21300046: chicken_walking_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chicken_walking_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 343
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 343
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 343
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 343
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 343
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 343
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 233
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 233
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 233
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 233
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 233
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 233
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 123
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 123
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 123
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 123
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 13
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 12
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_walking_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 13
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

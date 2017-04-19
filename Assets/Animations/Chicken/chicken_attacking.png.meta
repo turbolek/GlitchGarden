@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 0de0783d6df63f146a62f6f8b29125ec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken_attacking_0
+    21300002: chicken_attacking_1
+    21300004: chicken_attacking_2
+    21300006: chicken_attacking_3
+    21300008: chicken_attacking_4
+    21300010: chicken_attacking_5
+    21300012: chicken_attacking_6
+    21300014: chicken_attacking_7
+    21300016: chicken_attacking_8
+    21300018: chicken_attacking_9
+    21300020: chicken_attacking_10
+    21300022: chicken_attacking_11
+    21300024: chicken_attacking_12
+    21300026: chicken_attacking_13
+    21300028: chicken_attacking_14
+    21300030: chicken_attacking_15
+    21300032: chicken_attacking_16
+    21300034: chicken_attacking_17
+    21300036: chicken_attacking_18
+    21300038: chicken_attacking_19
+    21300040: chicken_attacking_20
+    21300042: chicken_attacking_21
+    21300044: chicken_attacking_22
+    21300046: chicken_attacking_23
+    21300048: chicken_attacking_24
+    21300050: chicken_attacking_25
+    21300052: chicken_attacking_26
+    21300054: chicken_attacking_27
+    21300056: chicken_attacking_28
+    21300058: chicken_attacking_29
+    21300060: chicken_attacking_30
+    21300062: chicken_attacking_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chicken_attacking_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 561
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 561
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 561
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 561
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 561
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 451
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 451
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 451
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 451
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 451
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 451
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 341
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 341
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 341
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 341
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 341
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 341
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_23
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 231
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_27
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_attacking_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

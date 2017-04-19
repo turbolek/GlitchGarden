@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 81c21d6e7cffebb4f8809896eba6f19b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chicken_lay_egg_0
+    21300002: chicken_lay_egg_1
+    21300004: chicken_lay_egg_2
+    21300006: chicken_lay_egg_3
+    21300008: chicken_lay_egg_4
+    21300010: chicken_lay_egg_5
+    21300012: chicken_lay_egg_6
+    21300014: chicken_lay_egg_7
+    21300016: chicken_lay_egg_8
+    21300018: chicken_lay_egg_9
+    21300020: chicken_lay_egg_10
+    21300022: chicken_lay_egg_11
+    21300024: chicken_lay_egg_12
+    21300026: chicken_lay_egg_13
+    21300028: chicken_lay_egg_14
+    21300030: chicken_lay_egg_15
+    21300032: chicken_lay_egg_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chicken_lay_egg_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 259
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 264
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 258
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 256
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 252
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 248
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 141
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 145
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 148
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 151
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 154
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_11
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 151
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 40
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 37
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 34
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 31
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chicken_lay_egg_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 28
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
